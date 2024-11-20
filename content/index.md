@@ -14,3 +14,9 @@ Coppidu is the central universe of multiple campaigns hosted with the Pathfinder
 - Wanderers' Guide - https://wanderersguide.app/
 	- Useful for character creation (I personally prefer the aesthetic over Pathbuilder)
 	- Allows campaigns and characters (1 campaign limit sadly)
+
+# Relevant Pages
+- Tales of Songbird
+	- [[A1 - Synopsis]] - a brief summary of the beginning of the campaign arc (in this case, Arc 1)
+	- [[A1 - Handouts]] - any handouts after sessions that may be useful later
+	- [[A1 - Tracked Quests]] - any quests that are currently active, this is usually updated after a session
