@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "cups-code.github.io/coppidu/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: false,
+    generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
