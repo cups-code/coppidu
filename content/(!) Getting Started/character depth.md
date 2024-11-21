@@ -1,6 +1,7 @@
 ---
 title: Details + Review Processes
 date: 2024-11-21
+modified: 2024-11-21
 ---
 # Building Character Depth
 Now that you have the bare bones structure of your character, let's "flesh it out" and make it feel somewhat real and built like an actual character within a story. Remember, tabletop roleplaying games are about building a collaborative story worth telling.
@@ -29,6 +30,6 @@ Now that you have the bare bones structure of your character, let's "flesh it ou
 - Please note that last-minute modifications may happen.
 
 # What's next?
-- Read through your campaign's relevant arc pages. You can find them [here](index#Relevant Pages).
+- Read through your campaign's relevant arc pages. You can find them [here](https://cups-code.github.io/coppidu/(!)-Getting-Started/character-depth).
 
 

@@ -13,7 +13,7 @@ This wiki was built to provide public and helpful information to the players inv
 2. Go to [[navigation]] to see how this works
 3. Make your character through [[character creation]] and building it with [[character depth]]
 4. Read through your relevant campaign's files (e.g. if you are in Tales of Songbird, go to the Tales of Songbird folder and read through the notes such as [[A1 - Synopsis]])
-	- You can find more relevant pages to your respective campaigns [here](#Relevant Pages)
+	- You can find more relevant pages to your respective campaigns [here](https://cups-code.github.io/coppidu/(!)-Getting-Started/character-depth)
 
 ---
 
@@ -34,4 +34,4 @@ This wiki was built to provide public and helpful information to the players inv
 - Tales of Songbird
 	- [[A1 - Synopsis]] - a brief summary of the beginning of the campaign arc (in this case, Arc 1)
 	- [[A1 - Handouts]] - any handouts after sessions that may be useful later
-	- [[A1 - Tracked Quests]] - any quests that are currently active, this is usually updated after a session
+	- [[A1 - Quest Tracker]] - any quests that are currently active, this is usually updated after a session

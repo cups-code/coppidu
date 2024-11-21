@@ -6,7 +6,7 @@ date: 2024-11-21
 So you've decided to join this little Pathfinder content universe? Maybe you're joining a campaign that is within this content universe, or you just decided that maybe you just want to make a character. For whatever reason it is, it doesn't matter. Let's get right into it.
 
 ## Knowing The Necessities
-- Firstly, read and remember all the necessary resources that you should know. These include the official standard reference document (SRD) and the character builder we are using. These can be found [here](index#Wonderful Resources).
+- Firstly, read and remember all the necessary resources that you should know. These include the official standard reference document (SRD) and the character builder we are using. These can be found [here](https://cups-code.github.io/coppidu/(!)-Getting-Started/character-depth).
 - Knowing where to find the location of where every single piece of content about Pathfinder is documented (and it's made by Paizo, the official creators) is extremely beneficial in the long run. You will be able to 
 
 ## Creating An Online Character Sheet (CS)
