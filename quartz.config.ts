@@ -13,11 +13,11 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "null",
     },
     locale: "en-GB",
     baseUrl: "cups-code.github.io/coppidu/",
-    ignorePatterns: ["private", "templates", ".obsidian", "wiki-resources", "!*.md"],
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: true,
     theme: {
