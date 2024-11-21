@@ -30,6 +30,6 @@ Now that you have the bare bones structure of your character, let's "flesh it ou
 - Please note that last-minute modifications may happen.
 
 # What's next?
-- Read through your campaign's relevant arc pages. You can find them [here](https://cups-code.github.io/coppidu/(!)-Getting-Started/character-depth).
+- Read through your campaign's relevant arc pages. You can find them [here](https://cups-code.github.io/coppidu/#relevant-pages).
 
 
