@@ -1,5 +1,5 @@
 ---
-title: Details + Review Processes
+title: Adding Character Depth
 date: 2024-11-21
 modified: 2024-11-21
 ---
