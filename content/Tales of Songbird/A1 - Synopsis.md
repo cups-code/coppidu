@@ -1,5 +1,5 @@
 ---
-title: Arc 1- Synopsis
+title: Arc 1 - Synopsis
 date: 2024-11-21
 ---
 In the realm of Coppidu, kingdoms arose and sought to control the world. In return, the world had established law and order. No one exactly knew how all of this started, and its ancient past has been long forgotten, but there is one moment that has not been forgotten. The present.

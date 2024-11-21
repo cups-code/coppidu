@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-GB",
     baseUrl: "cups-code.github.io/coppidu/",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "wiki-resources", "!*.md"],
     defaultDateType: "created",
     generateSocialImages: true,
     theme: {
