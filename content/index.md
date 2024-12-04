@@ -6,7 +6,7 @@ date: 2024-11-20
 Coppidu is the central universe of multiple campaigns hosted with the Pathfinder system. These are the following campaigns.
 - Tales of Songbird (2024-present)
 	- Session 1 started on 16.11.24
-	-  Description: A casual playtest campaign designed to learn the core mechanics with the GM and players
+	- Description: A casual playtest campaign designed to learn the core mechanics with the GM and players
 	- Capacity: 4/5 players, 1 GM
 
 This wiki was built to provide public and helpful information to the players involved in this content universe. We expect this content universe to be expansive and timeless, and hopefully, I'll be committed to it. You can find more about how the system works through the [[navigation]] page.
